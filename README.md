@@ -88,6 +88,7 @@ Connection to [Reddit API](https://www.reddit.com/dev/api/) with [Oauth2]( https
 
 ![image](https://user-images.githubusercontent.com/98088041/229546900-1168ebd4-0cc7-4300-9387-e2a681c2aea5.png)
 
+
 * You can search for subreddits :
 
 ![image](https://user-images.githubusercontent.com/98088041/229546937-684a3136-5289-4195-8467-d9eca6cdfd08.png)
@@ -97,6 +98,7 @@ Connection to [Reddit API](https://www.reddit.com/dev/api/) with [Oauth2]( https
 
 By category ("best reddit" for example ):
 ![image](https://user-images.githubusercontent.com/98088041/229546968-fa1cfbc7-d2be-40fa-a662-9795ff2294be.png)
+
 
 By theme :
 ![image](https://user-images.githubusercontent.com/98088041/229547000-8e0ab3fe-a6cd-4988-ad85-989167d3eedb.png)
