@@ -100,8 +100,11 @@ By category ("best reddit" for example ):
 ![image](https://user-images.githubusercontent.com/98088041/229546968-fa1cfbc7-d2be-40fa-a662-9795ff2294be.png)
 
 
+
 By theme :
+
 ![image](https://user-images.githubusercontent.com/98088041/229547000-8e0ab3fe-a6cd-4988-ad85-989167d3eedb.png)
+
 
    
    
