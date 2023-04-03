@@ -1,7 +1,8 @@
 # Redditech
 A Reddit clone social mobile app made with React Native
 
-# ![ScreenShot](images/logo-reddit1.png) Redditech - Reddit Clone - React Native  
+#![image](https://user-images.githubusercontent.com/98088041/229546454-88c6d401-5d55-4c91-ae62-8c0e3e058fdc.png)
+Redditech - Reddit Clone - React Native  
 
 
 
@@ -15,7 +16,8 @@ Connection to [Reddit API](https://www.reddit.com/dev/api/) with [Oauth2]( https
 ####
 * Go to the [Prefs/app](https://www.reddit.com/prefs/apps) of the API Reddit :
 
-![ScreenShot](images/DevAppReddit.png)
+![image](https://user-images.githubusercontent.com/98088041/229546632-5b2994c9-bd72-4846-ae5c-231ba3227767.png)
+
 
 ## Create Redditech app :
 
@@ -59,7 +61,9 @@ Connection to [Reddit API](https://www.reddit.com/dev/api/) with [Oauth2]( https
     
 ## Tree app Redditech – first to second level :
 
- ![ScreenShot](images/TreeRed.png) 
+![image](https://user-images.githubusercontent.com/98088041/229546690-78f3143f-a7ab-490a-baa1-e132c76653e5.png)
+![image](https://user-images.githubusercontent.com/98088041/229546716-29f9e56d-7a07-4e53-b4e9-faf495baf5f3.png)
+
     
 # Redditech : THE APP 
 
@@ -70,26 +74,29 @@ Connection to [Reddit API](https://www.reddit.com/dev/api/) with [Oauth2]( https
 ![ScreenShot](images/Accueil.png)
 
 ### On click => Use your own reddit account to connect the API
+![image](https://user-images.githubusercontent.com/98088041/229546798-c57cc37b-8321-4ff8-9bc5-d2e8ace7ec96.png)
 
-![ScreenShot](images/Connection-reddit-api.png) 
+
 
 * With the access_token you can have a personnal experience with your own Subreddits and posts :
+![image](https://user-images.githubusercontent.com/98088041/229546847-4c179544-fc37-429b-9729-3919921197d4.png)
 
-![ScreenShot](images/Subreddits.png)
-![ScreenShot](images/Posts.png)
 
 * You can access to your profile :
-
-![ScreenShot](images/Profile.png)
+![image](https://user-images.githubusercontent.com/98088041/229546900-1168ebd4-0cc7-4300-9387-e2a681c2aea5.png)
 
 * You can search for subreddits :
 
-![ScreenShot](images/Search.png)
+![image](https://user-images.githubusercontent.com/98088041/229546937-684a3136-5289-4195-8467-d9eca6cdfd08.png)
+
 
 * And filtered posts :
 
-![ScreenShot](images/BestPosts.png)
-![ScreenShot](images/Filter.png)
+By category ("best reddit" for example ):
+![image](https://user-images.githubusercontent.com/98088041/229546968-fa1cfbc7-d2be-40fa-a662-9795ff2294be.png)
+
+By theme :
+![image](https://user-images.githubusercontent.com/98088041/229547000-8e0ab3fe-a6cd-4988-ad85-989167d3eedb.png)
 
    
    
