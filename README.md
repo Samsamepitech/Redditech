@@ -79,10 +79,13 @@ Connection to [Reddit API](https://www.reddit.com/dev/api/) with [Oauth2]( https
 
 
 * With the access_token you can have a personnal experience with your own Subreddits and posts :
-![image](https://user-images.githubusercontent.com/98088041/229546847-4c179544-fc37-429b-9729-3919921197d4.png)
+
+![image](https://user-images.githubusercontent.com/98088041/229547507-342d1a4a-fdd5-4695-b6f3-3399433aa1de.png)
+
 
 
 * You can access to your profile :
+
 ![image](https://user-images.githubusercontent.com/98088041/229546900-1168ebd4-0cc7-4300-9387-e2a681c2aea5.png)
 
 * You can search for subreddits :
