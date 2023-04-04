@@ -1,5 +1,5 @@
 # Redditech
-A Reddit clone social mobile app made with React Native
+A Reddit based social mobile app made with React Native
 
 ![image](https://user-images.githubusercontent.com/98088041/229546454-88c6d401-5d55-4c91-ae62-8c0e3e058fdc.png)
 Redditech - Reddit Clone - React Native  
